@@ -1,2 +1,0 @@
-# Hotels
-basics-php
